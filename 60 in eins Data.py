@@ -58,3 +58,4 @@ if __name__ == "__main__":
 
     # DataMeans = dfData['speed'].rolling(window=60, min_periods=60, center=True).mean()
     # genervt = dfData.resample(60)
+    
